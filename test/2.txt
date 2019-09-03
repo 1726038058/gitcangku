@@ -1,4 +1,8 @@
+11111<<<<<<< HEAD
 bu wo bushiA
+=======
+nishishuzhzuzhuzhuA
+>>>>>>> featurel
 B
 D
 C
